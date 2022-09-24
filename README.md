@@ -28,6 +28,5 @@ I love to talk on trending ⚡and technology ⚡. I love building applications &
 - ⚡️ I love to eat and travel
 
 #### Repository stats
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaragnedda&show_icons=true&theme=radical)
-</div>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaragnedda&langs_count=5&theme=tokyonight)]()
+
