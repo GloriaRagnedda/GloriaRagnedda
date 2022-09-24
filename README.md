@@ -29,6 +29,5 @@ I love to talk on trending ⚡and technology ⚡. I love building applications &
 
 #### Repository stats
 <div>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GloriaRagnedda&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GloriaRagnedda&langs_count=5&theme=tokyonight)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaragnedda&show_icons=true&theme=radical)
 </div>
