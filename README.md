@@ -28,6 +28,8 @@ I love to talk on trending ⚡and technology ⚡. I love building applications &
 - ⚡️ I love to eat and travel
 
 #### Repository stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gloriaragnedda&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaragnedda&langs_count=5&theme=tokyonight)]()
 
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=gloriaragnedda&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaragnedda&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
