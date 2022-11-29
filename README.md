@@ -5,7 +5,6 @@ I love to talk on trending ⚡and technology ⚡. I love building applications &
 [![Linkedin Badge](https://img.shields.io/badge/-gloriaragnedda-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria-ragnedda)](www.linkedin.com/in/gloria-ragnedda)
 [![Gmail Badge](https://img.shields.io/badge/-gloriaranedda02@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gloriaranedda02@gmail.com)](mailto:gloriaranedda02@gmail.com)
 
-- 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Angular](https://img.shields.io/badge/-Angular-black?style=plastic&logo=angular)
